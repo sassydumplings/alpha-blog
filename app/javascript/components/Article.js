@@ -47,3 +47,5 @@ Article.propTypes = {
   updated_at: PropTypes.string
 };
 export default Article
+
+// use yarn add react-timestamp
